@@ -29,4 +29,4 @@ python main.py
 
 ## Acknowledgements
 
-Icon source from [https://iconduck.com/icons/183747/math]{Iconduck}.
+Icon source from [Iconduck](https://iconduck.com/icons/183747/math).
