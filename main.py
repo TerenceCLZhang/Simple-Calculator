@@ -1,8 +1,8 @@
 import pygame
 import sys
 
-from Button import Button, NumberButton, OperationButton
-from DisplayBar import DisplayBar
+from Components.Button import Button, NumberButton, OperationButton
+from Components.DisplayBar import DisplayBar
 
 # Window Dimensions
 WIDTH = 400
