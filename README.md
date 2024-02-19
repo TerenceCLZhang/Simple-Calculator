@@ -6,10 +6,10 @@ This project is a simple calculator implemented using the Python programming lan
 
 ## Installation
 
-1. Close this repository
+1. Close this repository.
 
 ```bash
-git clone
+git clone https://github.com/TerenceCLZhang/Simple-Calculator.git
 ```
 
 2. Install Pygame.
