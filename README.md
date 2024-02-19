@@ -20,7 +20,12 @@ git clone https://github.com/TerenceCLZhang/Simple-Calculator.git
 pip install pygame
 ```
 
-3. Run the calculator by double clicking on `main.py`.
+3. Run the calculator by double clicking on `main.py` or running the command:
+
+```bash
+cd Simple-Calculator
+python main.py
+```
 
 ## Acknowledgements
 
