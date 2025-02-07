@@ -24,9 +24,9 @@ pip install pygame
 
 ```bash
 cd Simple-Calculator
-python main.py
+python Calculator.py
 ```
 
 ## Acknowledgements
 
-Icon source from [Iconduck](https://iconduck.com/icons/183747/math).
+Icon source: [Iconduck](https://iconduck.com/icons/183747/math).
